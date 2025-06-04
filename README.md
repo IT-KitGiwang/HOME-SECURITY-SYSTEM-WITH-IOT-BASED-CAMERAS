@@ -1,5 +1,4 @@
 # HOME-SECURITY-SYSTEM-WITH-IOT-BASED-CAMERAS
-Đồ án cuối kỳ môn Internet of Things / dự án IoT của nhóm 11
 
 Đề tài “Home Security System with IoT-based Cameras” được xây dựng nhằm nâng cao khả năng giám sát và bảo vệ an ninh cho hộ gia đình bằng cách ứng dụng các công nghệ hiện đại như điều khiển từ xa, camera giám sát có kết nối WiFi, các cảm biến nhận diện (sensor) hỗ trợ giám sát an toàn nhà ở trên nền tảng Blynk IOT. Hệ thống gồm hai phần chính: Giám sát khu vực ngoài trời và Giám sát bên trong nhà.
 
